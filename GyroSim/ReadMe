@@ -1,0 +1,7 @@
+The purpose of this project is to create an interactive and practical system to
+understand how the gyroscope operates by reading the values of the Pmod and then
+converting it to make it readable using the Oled Pmod and by utilizing button
+interrupts you are able to either see the direct change in movement through
+coordinates or see it's practically by seeing an object move using the movement
+from zybo board.
+
