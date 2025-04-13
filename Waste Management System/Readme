@@ -1,1 +1,1 @@
-
+A senior capstone project designed to automate the process of waste detection and segregation using a combination of computer vision, Raspberry Pi, and Arduino. The system uses a Pi Camera to identify different types of waste and sorts them into appropriate bins, promoting efficient and eco-friendly waste disposal.
